@@ -1,0 +1,82 @@
+bookmarks = {
+	bookmark = {
+		name = "A_FALSE_CALM_NAME"
+		desc = "A_FALSE_CALM_DESC"
+		date = 1911.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "GER"
+		default = yes
+		
+		
+		"FRA"={
+			history = "FRA_A_FALSE_CALM_DESC"
+			ideology = radikalisme
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"USA"={
+			history = "USA_A_FALSE_CALM_DESC"
+			ideology = radikalisme
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		
+		"ENG"={
+			history = "ENG_A_FALSE_CALM_DESC"
+			ideology = radikalisme
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"GER"={
+			history = "GER_A_FALSE_CALM_DESC"
+			ideology = concordism
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		
+		"ITA"={
+			history = "ITA_A_FALSE_CALM_DESC"
+			ideology = concordism
+			ideas = {
+			}	
+			focuses = {
+			}		
+		}
+		"JAP"={
+			history = "JAP_A_FALSE_CALM_DESC"
+			ideology = concordism
+			ideas = {
+			}	
+			focuses = {
+			}			
+		}
+		"SOV"={
+			history = "SOV_A_FALSE_CALM_DESC"
+			ideology = obeidismus
+			ideas = {
+			}
+			focuses = {
+			}	
+		}
+
+		"---"={
+			history = "OTHER_A_FALSE_CALM_DESC"
+		}
+
+
+		# minors from DLC ####
+		
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}
