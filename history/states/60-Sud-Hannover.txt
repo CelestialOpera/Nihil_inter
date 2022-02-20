@@ -12,24 +12,21 @@ state={
 	state_category = large_city
 
 	history={
-		owner = GER
+		owner = HRE
 		victory_points = { 3561 5 }
 		victory_points = { 425 3 }
+		victory_points = {
+			3522 5 
+		}
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
 		}
-		add_core_of = GER
-		1939.1.1 = {
-			buildings = {
-				synthetic_refinery = 3
-				arms_factory = 2
-			}
-		}
+		add_core_of = HRE
 	}
 
 	provinces={
-		425 482 538 3500 3561 6501 6524 6582 9497 
+		425 482 538 3500 3522 3561 6487 6501 6524 6582 9497 9560 11359 
 	}
 
 	local_supplies=0.0 

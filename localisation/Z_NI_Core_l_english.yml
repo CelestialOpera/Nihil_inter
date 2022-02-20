@@ -7,11 +7,57 @@
  
  ##Bookmark Stuff
  #PROJECT_WILSON_NAME:0 "Project Wilson"
+ A_FALSE_CALM_NAME:0 "A False Calm"
+ A_FALSE_CALM_DESC:0 "The world as the year of 1911 rolls around seems suspiciously calm, while there naturally is diplomatic issues among the states of the world, along with internal strife, things still seem calm. It is like a quiet as fallen over the world, it is too quiet."
  
  #Ideologies
- 
- 
+ obeidismus:0 "Obeidismus"
+ obeidismus_noun:0 "Obeidismus"
+ obeidismus_desc:0 "Obeidist Regime"
+ popularism:0 "Popularism"
+ popularism_noun:0 "Popularism"
+ popularism_desc:0 "Popularist Regime"
+ radikalisme:0 "Radikalisme"
+ radikalisme_noun:0 "Radikalisme"
+ radikalisme_desc:0 "Radikal Regime"
+ minervianism:0 "Minervianism"
+ minervianism_noun:0 "Minervianism"
+ minervianism_desc:0 "Minervianist Regime"
+ physiocracy:0 "Physiocracy"
+ physiocracy_noun:0 "Physiocracy"
+ physiocracy_desc:0 "Physiocrat Regime"
+ alabism:0 "Alabism"
+ alabism_noun:0 "Alabism"
+ alabism_desc:0 "Alabist Regime"
+ caesarism:0 "Caesarism"
+ caesarism_noun:0 "Caesarism"
+ caesarism_desc:0 "Caesarist Regime"
+ cananachas:0 "Cananachas"
+ cananachas_noun:0 "Cananachas"
+ cananachas_desc:0 "Cananach Regime"
+ concordism:0 "Concordism"
+ concordism_noun:0 "Concordism"
+ concordism_desc:0 "Concordist Regime"
  #Sub-Ideologies
+ 
+ obeidismus_ideology:0 "Obeidismus"
+ obeidismus_ideology_desc:0 "An ideology of the lower classes of peoples from the Serfs, to the free peasants, to the Urban industrial workers, coming from the Low German word Oabeida for Worker. Obeidismus encourages raising up the lowest of classes to equal status of the others."
+ popularism_ideology:0 "Popularism"
+ popularism_ideology_desc:0 "An ideology based on the general population of an area or a nation, Popularism bases its idea in a general mass unifying movement of people with the aim of raising up the lowest of people as equals within their nation. Popularism is said by many to be the inspiration behind Obeidismus, which took the ideas of raising the lowest of peoples, but took out the nationalist principles."
+ radikalisme_ideology:0 "Radikalisme"
+ radikalisme_ideology_desc:0 "Radilakisme is an ideology grown out of an angry middle class Bourgeoisie, advocating for more enlightened policies as Radikals would call them. While Radikalisme is not inherently Anti-Monarchy, it does wish to topple the stranglehold the Aristocracy and Religious elite hold on Society."
+ minervianism_ideology:0 "Minervianism"
+ minervianism_ideology_desc:0 "Minervianism is an idea put forward by some young ex-radikals, advocating that there should be no higher up intervention into the life of the individual, usually promoting the idea of a government but allowing for the social and economic freedom of every person below. While there are some divisions within the ideology, with some claiming that socially traditional aspects should be preferred, they all share the idea of governments allowing freedom."
+ physiocracy_ideology:0 "Physiocracy"
+ physiocracy_ideology_desc:0 "Physiocracy is an idea that has been adopted by many landowners of conservative background, putting forward a more conservative and traditional outlook with policies that typically support the middle class such as the less rich landowners. "
+ alabism_ideology:0 "Alabism"
+ alabism_ideology_desc:0 "Alabism holds the ideas of Paternalism above all else, believing in a top down view of society. Alabists believe the government must see through the security and protection of its subjects. Some Alabists view it as just being a physical protection with a strong army and government, while some have expanded that view into the realm of social security believing it is a must for the government to protect its subjects. Alabism gets its name from the Arabic word for Father, Alab due to the ideology’s origin in Islamic Lands."
+ caesarism_ideology:0 "Caesarism"
+ caesarism_ideology_desc:0 "Caesarism is an ideology promoted by the ruling classes of Europe that spread to represent a general promotion of the ruling class against dissident subjects. Caesarist writers promote a traditional way of thought, bent on preserving the old order. "
+ cananachas_ideology:0 "Cananachas"
+ cananachas_ideology_desc:0 "Cananachas is a modern age ideology that promotes a more fundamentlist religious approach to society. In the words of some, Cananachs wish to bring their nation or even the world under the way of their God and spiritual beliefs. While seen more within Islamic and Christian populations, the ideology has taken hold within many religious beliefs and systems. The name Cananachas comes from the Irish word for Canaan due to its origins in the Irish New World."
+ concordism_ideology:0 "Concordism"
+ concordism_ideology_desc:0 "Concordism is the amalgamation of Popularist principles, extremist methods, and ideas of superiority and grandeur."
  
  
  ###Country Ideas###

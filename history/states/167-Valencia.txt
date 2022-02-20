@@ -7,7 +7,7 @@ state={
 	state_category = large_town
 
 	history={
-		owner = SPR
+		owner = AGO
 		victory_points = {
 			6906 10
 		}
@@ -25,11 +25,11 @@ state={
 				naval_base = 2
 			}
 		}
-		add_core_of = SPR
+		add_core_of = AGO
 	}
 
 	provinces={
-		962 3799 3873 4098 6817 6856 6906 6959 9889 9896 
+		962 3799 4098 6856 6906 6959 9889 9896 
 	}
 
 	local_supplies=0.0 

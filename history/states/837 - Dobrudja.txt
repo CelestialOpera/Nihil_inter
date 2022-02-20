@@ -1,0 +1,31 @@
+
+state = {
+	id = 837
+	name = "STATE_837"
+	manpower = 122729
+	
+	state_category = rural
+
+	history = {
+		owner = RHO
+		victory_points = { 657 3 }
+		buildings = {
+		
+			infrastructure = 2
+			657 = {
+				naval_base = 8
+			}
+			687 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = RHO
+	}
+
+	provinces = {
+		657 687 3076 9635
+	}
+
+	local_supplies = 6.0 
+}

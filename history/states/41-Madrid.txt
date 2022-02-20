@@ -6,7 +6,7 @@ state={
 	}
 
 	history={
-		owner = SPR
+		owner = AGO
 		victory_points = {
 			3938 30 
 		}
@@ -20,12 +20,12 @@ state={
 			air_base = 6
 
 		}
-		add_core_of = SPR
+		add_core_of = AGO
 
 	}
 
 	provinces={
-		858 896 939 977 3794 3845 3938 3986 6914 9767 9800 11820 13224 
+		858 896 977 3794 3938 3986 6914 9767 11820 13224 
 	}
 	manpower=2064659
 	buildings_max_level_factor=1.000

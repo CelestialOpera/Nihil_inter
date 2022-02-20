@@ -6,7 +6,7 @@ state={
 	}
 
 	history={
-		owner = POR
+		owner = GLC
 		victory_points = {
 			11805 20 
 		}
@@ -23,12 +23,12 @@ state={
 				naval_base = 8
 			}
 		}
-		add_core_of = POR
+		add_core_of = GLC
 
 	}
 
 	provinces={
-		799 3798 3861 6924 11805 
+		799 924 3798 3861 6924 11805 
 	}
 	manpower=1995800
 	buildings_max_level_factor=1.000
