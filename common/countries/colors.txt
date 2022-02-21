@@ -511,6 +511,18 @@ RUM = {
 	color = rgb { 203 109 33 }
 	color_ui = rgb { 203 109 33 }
 }
+APU = {
+	color = rgb { 216 202 122 }
+	color_ui = rgb { 216 202 122 }
+}
+FAT = {
+	color = rgb { 80 187 130 }
+	color_ui = rgb { 80 187 130 }
+}
+SAR = {
+	color = rgb { 237 167 205 }
+	color_ui = rgb { 237 167 205 }
+}
 D01 = {
 	color = rgb { 122 179 97 }
 	color_ui = rgb { 159 233 126 }

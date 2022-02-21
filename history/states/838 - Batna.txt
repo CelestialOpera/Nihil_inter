@@ -1,0 +1,27 @@
+
+state = {
+	id = 838
+	name = "STATE_838"
+	manpower = 22729
+	
+	state_category = wasteland
+
+	history = {
+		owner = FAT
+		victory_points = {
+			12034 3 
+		}
+		buildings = {
+		
+			infrastructure = 2
+			
+		}
+		add_core_of = FAT
+	}
+
+	provinces = {
+		1141 4970 9943 10059 12034 12888
+	}
+
+	local_supplies = 6.0 
+}
